@@ -1,13 +1,11 @@
 {
     "name": "syntaxStroop",
-    "author": "Irakli Gozalishvili",
     "description": "A syntax highlighter based on Google-code-prettify.",
-    "js": "lib",
+	"keywords": ["syntax", "highlight"],
+    "author": "Irakli Gozalishvili",
+	"email": "rfobic@gmail.com",
+    "lib": "lib",
     "license": ["Apache License, Version 2.0"],
-    "version": {
-        "label": "0.1",
-        "numeric": [0,1],
-        "status": "development"
-    }
-
+    "platform": ["rhino"],
+    "dependencies": []
 }
