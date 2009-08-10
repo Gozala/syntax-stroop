@@ -1,10 +1,16 @@
 {
     "name": "syntax-stroop",
     "description": "A syntax highlighter based on Google-code-prettify.",
-    "keywords": ["syntax", "highlight"],
+    "keywords": [
+        "syntax",
+        "highlight"
+    ],
     "author": "Irakli Gozalishvili (http://rfobic.wordpress.com/)",
     "email": "rfobic@gmail.com",
     "lib": "lib",
-    "license": ["Apache License, Version 2.0"],
-    "dependencies": []
+    "license": [
+        "Apache License, Version 2.0"
+    ],
+    "dependencies": [
+    ]
 }
